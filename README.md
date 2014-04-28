@@ -106,3 +106,10 @@ Lors d'une parité (tous les dés paires OU impaires), mais sauf dans le cas d'u
 ### Et le Néant change
 
 En effet, avec les règles à la Montagneuse, le joueur qui fait un Néant, ne gagne pas de Grelottine. Pour gagner une Grelottine, il faut faire une parité.
+
+
+Source:
+
+Première publication le 29 octobre 2006: <http://bob.noxblog.com/article-84.html>
+
+Comme le site est temporairement hors ligne: <http://web.archive.org/web/20100417164416/http://bob.noxblog.com/article-84.html>
